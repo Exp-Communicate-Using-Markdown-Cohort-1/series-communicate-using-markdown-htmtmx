@@ -5,3 +5,7 @@
 ```linux
   npm install typescript
 ```
+
+- [ ] work
+- [x] study
+- [ ] workout
